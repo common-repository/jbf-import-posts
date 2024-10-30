@@ -1,0 +1,131 @@
+.float-left
+{
+  position: relative;
+  float:  left;
+}
+
+.float-right
+{
+  position: relative;
+  float:  right;
+}
+
+.link-extern
+{
+  text-decoration: none;
+}
+
+.icon32
+{
+  background: transparent url('http://api.ning.com/icons/appatar/1311988?default=1311988&width=32&height=32') no-repeat top left;
+}
+
+DIV.postbox#jbf-settings DIV.inside
+{
+  background: url('http://api.ning.com/icons/appatar/1311988?default=1311988&width=32&height=32') no-repeat right bottom;
+}
+
+.jbf_option_left_part
+{
+  width:        40%;
+  vAlign:       top;
+  padding-top:  10px;
+  font-weight:  bold;
+  font-size:    12px;
+}
+
+.div-wait
+{
+  display: none;
+  padding: 0px;
+  margin:  0px;
+}
+
+.div-wait img
+{
+  height: 25px; 
+  width: 25px;
+  margin-bottom:-8px;
+}
+
+.img-link-ico
+{
+  margin-right:  5px;
+}
+
+select#jbf_import_cats_select_tag
+{
+  height: auto;
+}
+
+.ds_box 
+{
+	background-color: #FFF;
+	border: 2px solid #336699;    
+	position: absolute;
+	z-index: 32767;
+        width:300px;
+		/*height:180px;*/
+        padding-left:10px;
+        padding-right:10px;
+        padding-bottom:10px;
+        font-size:12px;
+        font-family: arial;
+}
+
+
+.settingsForm
+{
+  width:400px;
+  display:block;
+}
+
+.settingsForm hr
+{
+  color:#F1F1F1;
+}
+
+.settingsForm h2
+{
+  font-weight: normal;
+}
+
+.settingsForm table
+{
+  width:100%;
+  border:0;
+}
+
+/*.settingsForm table td{
+     padding: 6px;
+}*/
+
+.form_element_caption
+{
+  padding-top:12px;
+  font-weight:bold;
+  font-size:12px;
+  width:100%;
+}
+
+.settingsForm textarea
+{
+  width:100%;
+}
+
+.settingsForm .rb
+{
+  margin:0px 10px 0px 10px;
+}
+
+.settingsForm .frb
+{
+  margin:0px 10px 0px 0px;
+}
+
+
+
+    
+
+    
+
